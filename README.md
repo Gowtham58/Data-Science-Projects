@@ -7,7 +7,7 @@ Jupyter Notebook
 ## Projects
 
 ### 1. Billionaire Analysis 
-**Goal** : To Visualize and Analyse the Business environmets of various Billionaires around the Globe. [link](Code/Billionaire Analysis.ipynb)
+**Goal** : To Visualize and Analyse the Business environmets of various Billionaires around the Globe.
 
 ### 2. Unemployment Analysis
 **Goal** : Analysing the Unemployment dataset in India to know more about Unemployment using visualization.
