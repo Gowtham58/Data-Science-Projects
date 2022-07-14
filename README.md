@@ -2,8 +2,6 @@
 ## Description
 Simple Data Science Projects based on Aman Kharwal's [Data Science Projects for Beginners](https://amankharwal.medium.com/130-machine-learning-projects-solved-and-explained-605d188fb392).
 
-## IDE
-Jupyter Notebook
 ## Projects
 
 ### 1. [Billionaire Analysis](Code/Billionaire%20Analysis.ipynb)
