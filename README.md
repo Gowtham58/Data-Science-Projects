@@ -20,6 +20,6 @@ Simple Data Science Projects based on Aman Kharwal's [Data Science Projects for 
 **Result** : Successfully created a model that detects messages that are spam.
 ### 5. [Count objects](Code/Count%20objects.ipynb)
 **Goal** : To count number of cars in an image containing various images.
-### 6. [Microsoft Stock Price Prediction](Code/Microsoft%20Price%20Prediction.ipynb)
+### 6. [Microsoft Stock Price Prediction](Code/Microsoft%20Stock%20Price%20Prediction.ipynb)
 **Goal** : To predict the Microsoft stock prices.
 
